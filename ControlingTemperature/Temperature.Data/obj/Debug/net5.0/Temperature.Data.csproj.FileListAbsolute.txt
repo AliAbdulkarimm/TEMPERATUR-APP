@@ -1,0 +1,45 @@
+C:\Visual Stadio\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\Temperature.Data.deps.json
+C:\Visual Stadio\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\Temperature.Data.dll
+C:\Visual Stadio\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\ref\Temperature.Data.dll
+C:\Visual Stadio\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\Temperature.Data.pdb
+C:\Visual Stadio\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.csprojAssemblyReference.cache
+C:\Visual Stadio\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Stadio\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.AssemblyInfoInputs.cache
+C:\Visual Stadio\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.AssemblyInfo.cs
+C:\Visual Stadio\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.csproj.CoreCompileInputs.cache
+C:\Visual Stadio\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.dll
+C:\Visual Stadio\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\ref\Temperature.Data.dll
+C:\Visual Stadio\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.pdb
+C:\Visual Stadio\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\Temperature.Data.runtimeconfig.json
+C:\Visual Stadio\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\Temperature.Data.runtimeconfig.dev.json
+C:\Visual Stadio\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.genruntimeconfig.cache
+C:\Users\Dilan\Pictures\ProjectTemperature\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\Temperature.Data.deps.json
+C:\Users\Dilan\Pictures\ProjectTemperature\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\Temperature.Data.runtimeconfig.json
+C:\Users\Dilan\Pictures\ProjectTemperature\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\Temperature.Data.runtimeconfig.dev.json
+C:\Users\Dilan\Pictures\ProjectTemperature\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\Temperature.Data.dll
+C:\Users\Dilan\Pictures\ProjectTemperature\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\ref\Temperature.Data.dll
+C:\Users\Dilan\Pictures\ProjectTemperature\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\Temperature.Data.pdb
+C:\Users\Dilan\Pictures\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.csprojAssemblyReference.cache
+C:\Users\Dilan\Pictures\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dilan\Pictures\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.AssemblyInfoInputs.cache
+C:\Users\Dilan\Pictures\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.AssemblyInfo.cs
+C:\Users\Dilan\Pictures\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dilan\Pictures\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.dll
+C:\Users\Dilan\Pictures\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\ref\Temperature.Data.dll
+C:\Users\Dilan\Pictures\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.pdb
+C:\Users\Dilan\Pictures\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.genruntimeconfig.cache
+F:\ProjectTemperature\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\Temperature.Data.deps.json
+F:\ProjectTemperature\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\Temperature.Data.runtimeconfig.json
+F:\ProjectTemperature\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\Temperature.Data.runtimeconfig.dev.json
+F:\ProjectTemperature\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\Temperature.Data.dll
+F:\ProjectTemperature\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\ref\Temperature.Data.dll
+F:\ProjectTemperature\ControlingTemperature\Temperature.Data\bin\Debug\net5.0\Temperature.Data.pdb
+F:\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.csprojAssemblyReference.cache
+F:\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.AssemblyInfoInputs.cache
+F:\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.AssemblyInfo.cs
+F:\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.csproj.CoreCompileInputs.cache
+F:\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.dll
+F:\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\ref\Temperature.Data.dll
+F:\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.pdb
+F:\ProjectTemperature\ControlingTemperature\Temperature.Data\obj\Debug\net5.0\Temperature.Data.genruntimeconfig.cache
